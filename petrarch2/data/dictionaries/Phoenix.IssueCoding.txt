@@ -605,6 +605,7 @@ nail+bombed [IED]
 nail+bombing [IED]
 ied [IED]
 ieds [IED]
+vbied [IED]
 improvised explosive n:device [IED]
 ~~intermittent explosive disorder
 # include suicide bombing?
