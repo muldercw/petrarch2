@@ -196,6 +196,7 @@
 +PRIME_MINISTER
 +QUEEN
 +KING
++IMAN
 +SULTAN
 +MINISTER
 
@@ -207,6 +208,7 @@
 +REDOUBT
 +FORT
 +OUTPOST
++CAMP
 +HEADQUARTERS
 
 &CEASEFIRE
@@ -218,6 +220,8 @@
 
 &CAR
 +CAR
++JEEP
++HUMVEE
 +SEDAN
 +VEHICLE
 +AUTO
@@ -1441,6 +1445,8 @@ WRECK
 - &AIRCRAFT *                                         [---]         # CRASH
 - * VICTIM                                            [---]         # CRASH
 - &CAR *                                              [---]         # CRASH
+- &TRUCK *                                            [---]         # CRASH
+- &BIKE *                                             [---]         # CRASH
 - SHIP *                                              [---]         # CRASH
 - * BOYCOTT                                           [1054]        # SLAM
 - * (AS UNACCEPTABLE)                                 [111]         # SLAM
